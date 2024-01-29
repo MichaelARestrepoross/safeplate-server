@@ -1,8 +1,318 @@
 {
-  "Recipes":[
-    
-  ],
-  "UserData": [
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Grilled Chicken Salad",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste",
+        "1 teaspoon garlic powder",
+        "4 cups mixed salad greens",
+        "1 cup cherry tomatoes, halved",
+        "1 cucumber, sliced",
+        "1/2 red onion, thinly sliced",
+        "1/4 cup feta cheese, crumbled",
+        "1/4 cup balsamic vinaigrette dressing"
+      ],
+      "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Brush chicken breasts with olive oil and season with salt, pepper, and garlic powder.",
+        "Grill chicken for 6-7 minutes per side or until fully cooked.",
+        "Let chicken rest for a few minutes, then slice into strips.",
+        "In a large bowl, combine salad greens, cherry tomatoes, cucumber, red onion, and feta cheese.",
+        "Top the salad with grilled chicken strips.",
+        "Drizzle balsamic vinaigrette dressing over the salad.",
+        "Toss everything together gently and serve immediately."
+      ]
+    },
 
+    {
+      "id": "2",
+      "name": "Vegetarian Stir-Fry",
+      "ingredients": [
+        "2 cups broccoli florets",
+        "1 bell pepper, thinly sliced",
+        "1 carrot, julienned",
+        "1 cup snap peas",
+        "3 tablespoons soy sauce",
+        "2 tablespoons sesame oil",
+        "1 tablespoon ginger, minced",
+        "2 cloves garlic, minced",
+        "1 cup tofu, cubed",
+        "2 tablespoons vegetable oil",
+        "2 cups cooked brown rice"
+      ],
+      "instructions": [
+        "In a wok or large skillet, heat vegetable oil over medium-high heat.",
+        "Add ginger and garlic, sauté for 1-2 minutes until fragrant.",
+        "Add tofu cubes and stir-fry until golden brown.",
+        "Add broccoli, bell pepper, carrot, and snap peas to the wok.",
+        "Stir-fry the vegetables for 3-4 minutes until they are tender-crisp.",
+        "In a small bowl, mix soy sauce and sesame oil.",
+        "Pour the sauce over the vegetables and tofu. Stir to combine.",
+        "Serve the stir-fry over cooked brown rice."
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "Banana Chocolate Chip Muffins",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, melted",
+        "1/2 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "2 large eggs",
+        "3 ripe bananas, mashed",
+        "1 teaspoon vanilla extract",
+        "1 cup chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C). Line a muffin tin with paper liners.",
+        "In a bowl, whisk together flour, baking powder, baking soda, and salt.",
+        "In another bowl, beat melted butter, granulated sugar, and brown sugar until well combined.",
+        "Add eggs one at a time, beating well after each addition.",
+        "Stir in mashed bananas and vanilla extract.",
+        "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+        "Fold in chocolate chips.",
+        "Spoon the batter into the muffin cups, filling each about two-thirds full.",
+        "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+        "Allow muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
+      ]
+    },
+
+    {
+      "id": "4",
+      "name": "Caprese Salad",
+      "ingredients": [
+        "2 cups cherry tomatoes, halved",
+        "1 cup fresh mozzarella, cubed",
+        "1/4 cup fresh basil leaves, torn",
+        "2 tablespoons balsamic glaze",
+        "2 tablespoons extra-virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine cherry tomatoes, fresh mozzarella, and torn basil leaves.",
+        "Drizzle with balsamic glaze and extra-virgin olive oil.",
+        "Season with salt and pepper to taste.",
+        "Toss gently to combine and serve immediately."
+      ]
+    },
+
+    {
+      "id": "5",
+      "name": "Shrimp Scampi Pasta",
+      "ingredients": [
+        "8 oz linguine pasta",
+        "1 lb large shrimp, peeled and deveined",
+        "3 tablespoons unsalted butter",
+        "3 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1/2 teaspoon red pepper flakes",
+        "1/4 cup chicken broth",
+        "Juice of 1 lemon",
+        "Salt and black pepper to taste",
+        "2 tablespoons chopped fresh parsley"
+      ],
+      "instructions": [
+        "Cook linguine pasta according to package instructions. Drain and set aside.",
+        "In a large skillet, heat butter and olive oil over medium-high heat.",
+        "Add minced garlic and red pepper flakes, sauté until garlic is fragrant.",
+        "Add shrimp to the skillet and cook until pink, about 2-3 minutes per side.",
+        "Pour in chicken broth and lemon juice. Season with salt and black pepper.",
+        "Add cooked pasta to the skillet, tossing to coat in the sauce.",
+        "Garnish with chopped fresh parsley and serve immediately."
+      ]
+    },
+
+    {
+      "id": "6",
+      "name": "Vegetable Curry",
+      "ingredients": [
+        "1 cup cauliflower florets",
+        "1 cup carrots, sliced",
+        "1 cup bell peppers, diced",
+        "1 cup potatoes, diced",
+        "1 cup green beans, chopped",
+        "1 onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 tablespoon ginger, grated",
+        "2 tablespoons curry powder",
+        "1 can (14 oz) coconut milk",
+        "Salt and pepper to taste",
+        "2 tablespoons vegetable oil"
+      ],
+      "instructions": [
+        "In a large pot, heat vegetable oil over medium heat.",
+        "Add chopped onions, garlic, and ginger. Sauté until onions are translucent.",
+        "Add curry powder and stir to coat the vegetables.",
+        "Add cauliflower, carrots, bell peppers, potatoes, and green beans. Mix well.",
+        "Pour in coconut milk and bring to a simmer. Cover and cook until vegetables are tender.",
+        "Season with salt and pepper to taste.",
+        "Serve the vegetable curry over rice or your preferred grain."
+      ]
+    },
+
+    {
+      "id": "7",
+      "name": "Mango Salsa Chicken",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 cup mango, diced",
+        "1/2 cup red bell pepper, diced",
+        "1/4 cup red onion, finely chopped",
+        "1 jalapeño, seeded and minced",
+        "2 tablespoons fresh cilantro, chopped",
+        "Juice of 2 limes",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Season chicken breasts with salt and pepper.",
+        "In a bowl, combine diced mango, red bell pepper, red onion, jalapeño, cilantro, and lime juice.",
+        "Heat olive oil in an oven-safe skillet over medium-high heat.",
+        "Sear chicken breasts on both sides until golden brown.",
+        "Top each chicken breast with mango salsa.",
+        "Transfer the skillet to the preheated oven and bake for 20-25 minutes or until chicken is cooked through.",
+        "Serve the mango salsa chicken over rice or quinoa."
+      ]
+    },
+
+    {
+      "id": "8",
+      "name": "Quinoa Salad with Avocado and Black Beans",
+      "ingredients": [
+        "1 cup quinoa, cooked and cooled",
+        "1 can (15 oz) black beans, drained and rinsed",
+        "1 cup corn kernels, fresh or frozen",
+        "1 avocado, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/4 cup red onion, finely chopped",
+        "2 tablespoons fresh cilantro, chopped",
+        "Juice of 1 lime",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine cooked quinoa, black beans, corn, diced avocado, cherry tomatoes, and red onion.",
+        "In a small bowl, whisk together lime juice, olive oil, salt, and pepper.",
+        "Pour the dressing over the quinoa mixture and toss gently to combine.",
+        "Garnish with fresh cilantro and serve chilled."
+      ]
+    },
+
+    {
+      "id": "9",
+      "name": "Teriyaki Salmon",
+      "ingredients": [
+        "4 salmon fillets",
+        "1/4 cup soy sauce",
+        "2 tablespoons honey",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon sesame oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, grated",
+        "Sesame seeds and green onions for garnish",
+        "Cooked white or brown rice for serving"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "In a bowl, whisk together soy sauce, honey, rice vinegar, sesame oil, minced garlic, and grated ginger.",
+        "Place salmon fillets in a baking dish and pour the teriyaki sauce over them.",
+        "Bake for 15-18 minutes or until salmon is cooked through.",
+        "Garnish with sesame seeds and sliced green onions.",
+        "Serve the teriyaki salmon over cooked rice."
+      ]
+    },
+
+    {
+      "id": "10",
+      "name": "Pesto Pasta with Cherry Tomatoes",
+      "ingredients": [
+        "8 oz penne pasta",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup fresh basil leaves, packed",
+        "1/3 cup pine nuts",
+        "1/2 cup grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "1/2 cup extra-virgin olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook penne pasta according to package instructions. Drain and set aside.",
+        "In a food processor, combine fresh basil, pine nuts, grated Parmesan, and minced garlic.",
+        "Pulse until ingredients are finely chopped.",
+        "With the food processor running, slowly pour in the olive oil until a smooth pesto sauce forms.",
+        "Toss the cooked penne pasta with the pesto sauce and halved cherry tomatoes.",
+        "Season with salt and black pepper to taste.",
+        "Serve the pesto pasta with additional Parmesan if desired."
+      ]
+    }
+  ],
+
+  "userData": [
+    {
+      "id": "u1",
+      "name": "Alice",
+      "recipeIds": ["1", "3", "5"],
+      "allergies": ["milk", "eggs"]
+    },
+    {
+      "id": "u2",
+      "name": "Bob",
+      "recipeIds": ["2", "4", "6"],
+      "allergies": ["nuts", "seaFood"]
+    },
+    {
+      "id": "u3",
+      "name": "Charlie",
+      "recipeIds": ["7", "9", "10"],
+      "allergies": ["gluten", "soy"]
+    }
+  ],
+
+  "differentAllergies":[
+    {
+      "name": "seafood",
+      "array": ["trout", "shrimp", "lobster"]
+    },
+    {
+      "name": "gluten",
+      "array": ["wheat", "barley", "rye"]
+    },
+    {
+      "name": "fish",
+      "array": ["salmon", "cod", "tuna"]
+    },
+    {
+      "name": "nuts",
+      "array": ["almonds", "walnuts", "pecans"]
+    },
+    {
+      "name": "dairy",
+      "array": ["milk", "cheese", "butter"]
+    },
+    {
+      "name": "soy",
+      "array": ["soybeans", "tofu", "soy sauce"]
+    },
+    {
+      "name": "eggs",
+      "array": ["chicken eggs", "duck eggs"]
+    },
+    {
+      "name": "shellfish",
+      "array": ["crab", "clams", "mussels"]
+    },
+    {
+      "name": "peanuts",
+      "array": ["peanut butter", "roasted peanuts"]
+    }
   ]
 }
