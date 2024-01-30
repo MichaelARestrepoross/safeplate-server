@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Grilled Chicken Salad",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706635911/wulywyigx4bl31pw6r7w.jpg",
       "description":"A delightful Grilled Chicken Salad featuring succulent chicken strips seasoned with garlic, served on a bed of mixed greens, cherry tomatoes, cucumber, and feta cheese. Drizzled with balsamic vinaigrette, it's a perfect balance of flavors.",
       "ingredients": [
         "2 boneless, skinless chicken breasts",
@@ -32,7 +32,7 @@
     {
       "id": "2",
       "name": "Vegetarian Stir-Fry",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636139/tempeh-stir-fry-3-1_onskor.jpg",
       "description":"Dive into a world of flavors with this Vegetarian Stir-Fry. Tofu, vibrant vegetables, and a soy-sesame sauce come together in a wok for a quick and healthy meal, served over brown rice.",
       "ingredients": [
         "2 cups broccoli florets",
@@ -62,7 +62,7 @@
     {
       "id": "3",
       "name": "Banana Chocolate Chip Muffins",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636226/healthybananachocolatechipmuffins12-1-of-1_jqzsj4.jpg",
       "description":"Indulge in the sweetness of Banana Chocolate Chip Muffins. Moist and flavorful, these muffins are a perfect blend of ripe bananas, chocolate chips, and a touch of vanilla, making them a delightful treat.",
       "ingredients": [
         "2 cups all-purpose flour",
@@ -94,7 +94,7 @@
     {
       "id": "4",
       "name": "Caprese Salad",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636256/caprese-salad-with-cherry-tomatoes-004_om8wxo.jpg",
       "description":"Experience the simplicity and freshness of a Caprese Salad. Juicy cherry tomatoes, fresh mozzarella, and torn basil leaves are drizzled with balsamic glaze and olive oil, creating a classic and elegant dish.",
       "ingredients": [
         "2 cups cherry tomatoes, halved",
@@ -115,7 +115,7 @@
     {
       "id": "5",
       "name": "Shrimp Scampi Pasta",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636283/Shrimp-Scampi-pasta-1_adm1z1.jpg",
       "description":"Savor the flavors of Shrimp Scampi Pasta. Succulent shrimp, garlic-infused butter, and a hint of red pepper flakes come together in a delightful pasta dish, finished with a squeeze of lemon and fresh parsley.",
       "ingredients": [
         "8 oz linguine pasta",
@@ -143,7 +143,7 @@
     {
       "id": "6",
       "name": "Vegetable Curry",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636336/Cauliflower-Curry-7-1170x1463_ci5pkv.jpg",
       "description":"Enjoy a hearty Vegetable Curry, where cauliflower, carrots, bell peppers, potatoes, and green beans are simmered in coconut milk and aromatic spices. Serve over rice for a satisfying and flavorful meal.",
       "ingredients": [
         "1 cup cauliflower florets",
@@ -173,7 +173,7 @@
     {
       "id": "7",
       "name": "Mango Salsa Chicken",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636373/mango-salsa-chicken-5_ypn7qo.jpg",
       "description":"Elevate your chicken dinner with Mango Salsa Chicken. Juicy chicken breasts are topped with a vibrant mango salsa, creating a harmonious blend of sweet and savory flavors.",
       "ingredients": [
         "4 boneless, skinless chicken breasts",
@@ -201,7 +201,7 @@
     {
       "id": "8",
       "name": "Quinoa Salad with Avocado and Black Beans",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636409/southwest-quinoa-salad-with-mango-and-black-beans-050_g0gtdh.jpg",
       "description":"Embrace a nutritious Quinoa Salad loaded with black beans, corn, avocado, cherry tomatoes, and red onion. Drizzled with a zesty lime dressing, it's a refreshing and wholesome dish.",
       "ingredients": [
         "1 cup quinoa, cooked and cooled",
@@ -226,7 +226,7 @@
     {
       "id": "9",
       "name": "Teriyaki Salmon",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636444/Teriyaki-Salmon-set-1-10_bmvwac.jpg",
       "description":"Delight in Teriyaki Salmon, featuring succulent salmon fillets glazed with a savory teriyaki sauce. Garnished with sesame seeds and green onions, it's a perfect balance of sweet and savory.",
       "ingredients": [
         "4 salmon fillets",
@@ -252,7 +252,7 @@
     {
       "id": "10",
       "name": "Pesto Pasta with Cherry Tomatoes",
-      "image":"",
+      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636480/penne-pasta-with-pesto-and-cherry-tomatoes_60dd64eba26f521e084e07555d8d9bfb_k2jhaf.png",
       "description":"Dive into a bowl of Pesto Pasta with Cherry Tomatoes. Penne pasta is coated in a flavorful basil pesto sauce and tossed with halved cherry tomatoes for a burst of freshness.",
       "ingredients": [
         "8 oz penne pasta",
