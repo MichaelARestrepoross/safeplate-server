@@ -261,19 +261,130 @@
       "id": "u1",
       "name": "Alice",
       "recipeIds": ["1", "3", "5"],
-      "allergies": ["milk", "eggs"]
+      "allergies": ["milk", "eggs"],
+      "weeklyMeals":{
+        "monday": {
+          "breakfast":[""],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "tuesday":{
+          "breakfast":["1","3"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "wednesday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "thursday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "friday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "saturday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "sunday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        }        
+      }
     },
     {
       "id": "u2",
       "name": "Bob",
       "recipeIds": ["2", "4", "6"],
-      "allergies": ["nuts", "seaFood"]
+      "allergies": ["nuts", "seaFood"],
+      "weeklyMeals":{
+        "monday": {
+          "breakfast":[""],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "tuesday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "wednesday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "thursday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "friday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "saturday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "sunday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        }        
+      }
     },
     {
       "id": "u3",
       "name": "Charlie",
       "recipeIds": ["7", "9", "10"],
-      "allergies": ["gluten", "soy"]
+      "allergies": ["gluten", "soy"],
+      "weeklyMeals":{
+        "monday": {
+          "breakfast":[""],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "tuesday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "wednesday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "thursday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "friday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "saturday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        },
+        "sunday":{
+          "breakfast":["1","2"],
+          "lunch":[""],
+          "dinner":[""]
+        }        
+      }
     }
   ],
 
