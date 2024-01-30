@@ -411,39 +411,39 @@
   "differentAllergies":[
     {
       "name": "seafood",
-      "array": ["trout", "shrimp", "lobster"]
+      "allergens": ["trout", "shrimp", "lobster"]
     },
     {
       "name": "gluten",
-      "array": ["wheat", "barley", "rye"]
+      "allergens": ["wheat", "barley", "rye"]
     },
     {
       "name": "fish",
-      "array": ["salmon", "cod", "tuna"]
+      "allergens": ["salmon", "cod", "tuna"]
     },
     {
       "name": "nuts",
-      "array": ["almonds", "walnuts", "pecans"]
+      "allergens": ["almonds", "walnuts", "pecans"]
     },
     {
       "name": "dairy",
-      "array": ["milk", "cheese", "butter"]
+      "allergens": ["milk", "cheese", "butter"]
     },
     {
       "name": "soy",
-      "array": ["soybeans", "tofu", "soy sauce"]
+      "allergens": ["soybeans", "tofu", "soy sauce"]
     },
     {
       "name": "eggs",
-      "array": ["chicken eggs", "duck eggs"]
+      "allergens": ["chicken eggs", "duck eggs"]
     },
     {
       "name": "shellfish",
-      "array": ["crab", "clams", "mussels"]
+      "allergens": ["crab", "clams", "mussels"]
     },
     {
       "name": "peanuts",
-      "array": ["peanut butter", "roasted peanuts"]
+      "allergens": ["peanut butter", "roasted peanuts"]
     }
   ]
 }
