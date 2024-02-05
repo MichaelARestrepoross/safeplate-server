@@ -3,8 +3,8 @@
     {
       "id": "1",
       "name": "Grilled Chicken Salad",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706635911/wulywyigx4bl31pw6r7w.jpg",
-      "description":"A delightful Grilled Chicken Salad featuring succulent chicken strips seasoned with garlic, served on a bed of mixed greens, cherry tomatoes, cucumber, and feta cheese. Drizzled with balsamic vinaigrette, it's a perfect balance of flavors.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706635911/wulywyigx4bl31pw6r7w.jpg",
+      "description": "A delightful Grilled Chicken Salad featuring succulent chicken strips seasoned with garlic, served on a bed of mixed greens, cherry tomatoes, cucumber, and feta cheese. Drizzled with balsamic vinaigrette, it's a perfect balance of flavors.",
       "ingredients": [
         "2 boneless, skinless chicken breasts",
         "2 tablespoons olive oil",
@@ -28,12 +28,11 @@
         "Toss everything together gently and serve immediately."
       ]
     },
-
     {
       "id": "2",
       "name": "Vegetarian Stir-Fry",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636139/tempeh-stir-fry-3-1_onskor.jpg",
-      "description":"Dive into a world of flavors with this Vegetarian Stir-Fry. Tofu, vibrant vegetables, and a soy-sesame sauce come together in a wok for a quick and healthy meal, served over brown rice.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636139/tempeh-stir-fry-3-1_onskor.jpg",
+      "description": "Dive into a world of flavors with this Vegetarian Stir-Fry. Tofu, vibrant vegetables, and a soy-sesame sauce come together in a wok for a quick and healthy meal, served over brown rice.",
       "ingredients": [
         "2 cups broccoli florets",
         "1 bell pepper, thinly sliced",
@@ -58,12 +57,11 @@
         "Serve the stir-fry over cooked brown rice."
       ]
     },
-
     {
       "id": "3",
       "name": "Banana Chocolate Chip Muffins",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636226/healthybananachocolatechipmuffins12-1-of-1_jqzsj4.jpg",
-      "description":"Indulge in the sweetness of Banana Chocolate Chip Muffins. Moist and flavorful, these muffins are a perfect blend of ripe bananas, chocolate chips, and a touch of vanilla, making them a delightful treat.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636226/healthybananachocolatechipmuffins12-1-of-1_jqzsj4.jpg",
+      "description": "Indulge in the sweetness of Banana Chocolate Chip Muffins. Moist and flavorful, these muffins are a perfect blend of ripe bananas, chocolate chips, and a touch of vanilla, making them a delightful treat.",
       "ingredients": [
         "2 cups all-purpose flour",
         "1 teaspoon baking powder",
@@ -90,12 +88,11 @@
         "Allow muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
       ]
     },
-
     {
       "id": "4",
       "name": "Caprese Salad",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636256/caprese-salad-with-cherry-tomatoes-004_om8wxo.jpg",
-      "description":"Experience the simplicity and freshness of a Caprese Salad. Juicy cherry tomatoes, fresh mozzarella, and torn basil leaves are drizzled with balsamic glaze and olive oil, creating a classic and elegant dish.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636256/caprese-salad-with-cherry-tomatoes-004_om8wxo.jpg",
+      "description": "Experience the simplicity and freshness of a Caprese Salad. Juicy cherry tomatoes, fresh mozzarella, and torn basil leaves are drizzled with balsamic glaze and olive oil, creating a classic and elegant dish.",
       "ingredients": [
         "2 cups cherry tomatoes, halved",
         "1 cup fresh mozzarella, cubed",
@@ -111,12 +108,11 @@
         "Toss gently to combine and serve immediately."
       ]
     },
-
     {
       "id": "5",
       "name": "Shrimp Scampi Pasta",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636283/Shrimp-Scampi-pasta-1_adm1z1.jpg",
-      "description":"Savor the flavors of Shrimp Scampi Pasta. Succulent shrimp, garlic-infused butter, and a hint of red pepper flakes come together in a delightful pasta dish, finished with a squeeze of lemon and fresh parsley.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636283/Shrimp-Scampi-pasta-1_adm1z1.jpg",
+      "description": "Savor the flavors of Shrimp Scampi Pasta. Succulent shrimp, garlic-infused butter, and a hint of red pepper flakes come together in a delightful pasta dish, finished with a squeeze of lemon and fresh parsley.",
       "ingredients": [
         "8 oz linguine pasta",
         "1 lb large shrimp, peeled and deveined",
@@ -139,12 +135,11 @@
         "Garnish with chopped fresh parsley and serve immediately."
       ]
     },
-
     {
       "id": "6",
       "name": "Vegetable Curry",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636336/Cauliflower-Curry-7-1170x1463_ci5pkv.jpg",
-      "description":"Enjoy a hearty Vegetable Curry, where cauliflower, carrots, bell peppers, potatoes, and green beans are simmered in coconut milk and aromatic spices. Serve over rice for a satisfying and flavorful meal.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636336/Cauliflower-Curry-7-1170x1463_ci5pkv.jpg",
+      "description": "Enjoy a hearty Vegetable Curry, where cauliflower, carrots, bell peppers, potatoes, and green beans are simmered in coconut milk and aromatic spices. Serve over rice for a satisfying and flavorful meal.",
       "ingredients": [
         "1 cup cauliflower florets",
         "1 cup carrots, sliced",
@@ -169,12 +164,11 @@
         "Serve the vegetable curry over rice or your preferred grain."
       ]
     },
-
     {
       "id": "7",
       "name": "Mango Salsa Chicken",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636373/mango-salsa-chicken-5_ypn7qo.jpg",
-      "description":"Elevate your chicken dinner with Mango Salsa Chicken. Juicy chicken breasts are topped with a vibrant mango salsa, creating a harmonious blend of sweet and savory flavors.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636373/mango-salsa-chicken-5_ypn7qo.jpg",
+      "description": "Elevate your chicken dinner with Mango Salsa Chicken. Juicy chicken breasts are topped with a vibrant mango salsa, creating a harmonious blend of sweet and savory flavors.",
       "ingredients": [
         "4 boneless, skinless chicken breasts",
         "1 cup mango, diced",
@@ -197,12 +191,11 @@
         "Serve the mango salsa chicken over rice or quinoa."
       ]
     },
-
     {
       "id": "8",
       "name": "Quinoa Salad with Avocado and Black Beans",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636409/southwest-quinoa-salad-with-mango-and-black-beans-050_g0gtdh.jpg",
-      "description":"Embrace a nutritious Quinoa Salad loaded with black beans, corn, avocado, cherry tomatoes, and red onion. Drizzled with a zesty lime dressing, it's a refreshing and wholesome dish.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636409/southwest-quinoa-salad-with-mango-and-black-beans-050_g0gtdh.jpg",
+      "description": "Embrace a nutritious Quinoa Salad loaded with black beans, corn, avocado, cherry tomatoes, and red onion. Drizzled with a zesty lime dressing, it's a refreshing and wholesome dish.",
       "ingredients": [
         "1 cup quinoa, cooked and cooled",
         "1 can (15 oz) black beans, drained and rinsed",
@@ -222,12 +215,11 @@
         "Garnish with fresh cilantro and serve chilled."
       ]
     },
-
     {
       "id": "9",
       "name": "Teriyaki Salmon",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636444/Teriyaki-Salmon-set-1-10_bmvwac.jpg",
-      "description":"Delight in Teriyaki Salmon, featuring succulent salmon fillets glazed with a savory teriyaki sauce. Garnished with sesame seeds and green onions, it's a perfect balance of sweet and savory.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636444/Teriyaki-Salmon-set-1-10_bmvwac.jpg",
+      "description": "Delight in Teriyaki Salmon, featuring succulent salmon fillets glazed with a savory teriyaki sauce. Garnished with sesame seeds and green onions, it's a perfect balance of sweet and savory.",
       "ingredients": [
         "4 salmon fillets",
         "1/4 cup soy sauce",
@@ -248,12 +240,11 @@
         "Serve the teriyaki salmon over cooked rice."
       ]
     },
-
     {
       "id": "10",
       "name": "Pesto Pasta with Cherry Tomatoes",
-      "image":"https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636480/penne-pasta-with-pesto-and-cherry-tomatoes_60dd64eba26f521e084e07555d8d9bfb_k2jhaf.png",
-      "description":"Dive into a bowl of Pesto Pasta with Cherry Tomatoes. Penne pasta is coated in a flavorful basil pesto sauce and tossed with halved cherry tomatoes for a burst of freshness.",
+      "image": "https://res.cloudinary.com/dm8xhvx4t/image/upload/v1706636480/penne-pasta-with-pesto-and-cherry-tomatoes_60dd64eba26f521e084e07555d8d9bfb_k2jhaf.png",
+      "description": "Dive into a bowl of Pesto Pasta with Cherry Tomatoes. Penne pasta is coated in a flavorful basil pesto sauce and tossed with halved cherry tomatoes for a burst of freshness.",
       "ingredients": [
         "8 oz penne pasta",
         "1 cup cherry tomatoes, halved",
@@ -275,175 +266,306 @@
       ]
     }
   ],
-
   "userData": [
     {
       "id": "u1",
       "name": "Alice",
-      "recipeIds": ["1", "3", "5"],
-      "allergies": ["milk", "eggs"],
-      "weeklyMeals":{
+      "recipeIds": [
+        "5",
+        "7",
+        "1"
+      ],
+      "allergies": [
+        "milk",
+        "chicken"
+      ],
+      "weeklyMeals": {
         "monday": {
-          "breakfast":[""],
-          "lunch":[""],
-          "dinner":[""]
+          "breakfast": [
+            "5",
+            "1"
+          ],
+          "lunch": [
+            "1",
+            "1"
+          ],
+          "dinner": [
+            "1"
+          ]
         },
-        "tuesday":{
-          "breakfast":["1","3"],
-          "lunch":[""],
-          "dinner":[""]
+        "tuesday": {
+          "breakfast": [
+            "2",
+            "3"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "wednesday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "wednesday": {
+          "breakfast": [
+            "2",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "thursday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "thursday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "friday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "friday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "saturday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "saturday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "sunday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
-        }        
+        "sunday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
+        }
       }
     },
     {
       "id": "u2",
       "name": "Bob",
-      "recipeIds": ["2", "4", "6"],
-      "allergies": ["nuts", "seaFood"],
-      "weeklyMeals":{
+      "recipeIds": [
+        "4",
+        "6",
+        "2"
+      ],
+      "allergies": [
+        "nuts",
+        "seaFood",
+        "chicken"
+      ],
+      "weeklyMeals": {
         "monday": {
-          "breakfast":[""],
-          "lunch":[""],
-          "dinner":[""]
+          "breakfast": [
+            "6"
+          ],
+          "lunch": [
+            "2"
+          ],
+          "dinner": [
+            "2"
+          ]
         },
-        "tuesday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "tuesday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "wednesday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "wednesday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "thursday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "thursday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "friday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "friday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "saturday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "saturday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "sunday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
-        }        
+        "sunday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
+        }
       }
     },
     {
       "id": "u3",
       "name": "Charlie",
-      "recipeIds": ["7", "9", "10"],
-      "allergies": ["gluten", "soy"],
-      "weeklyMeals":{
+      "recipeIds": [
+        "7",
+        "9",
+        "10"
+      ],
+      "allergies": [
+        "gluten",
+        "soy"
+      ],
+      "weeklyMeals": {
         "monday": {
-          "breakfast":[""],
-          "lunch":[""],
-          "dinner":[""]
+          "breakfast": [
+            "",
+            "9"
+          ],
+          "lunch": [
+            "",
+            "9",
+            "7"
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "tuesday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "tuesday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "wednesday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "wednesday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "thursday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "thursday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "friday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "friday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "saturday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
+        "saturday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
         },
-        "sunday":{
-          "breakfast":["1","2"],
-          "lunch":[""],
-          "dinner":[""]
-        }        
+        "sunday": {
+          "breakfast": [
+            "1",
+            "2"
+          ],
+          "lunch": [
+            ""
+          ],
+          "dinner": [
+            ""
+          ]
+        }
       }
-    }
-  ],
-
-  "differentAllergies":[
-    {
-      "name": "seafood",
-      "allergens": ["trout", "shrimp", "lobster"]
-    },
-    {
-      "name": "gluten",
-      "allergens": ["wheat", "barley", "rye"]
-    },
-    {
-      "name": "fish",
-      "allergens": ["salmon", "cod", "tuna"]
-    },
-    {
-      "name": "nuts",
-      "allergens": ["almonds", "walnuts", "pecans"]
-    },
-    {
-      "name": "dairy",
-      "allergens": ["milk", "cheese", "butter"]
-    },
-    {
-      "name": "soy",
-      "allergens": ["soybeans", "tofu", "soy sauce"]
-    },
-    {
-      "name": "eggs",
-      "allergens": ["chicken eggs", "duck eggs"]
-    },
-    {
-      "name": "shellfish",
-      "allergens": ["crab", "clams", "mussels"]
-    },
-    {
-      "name": "peanuts",
-      "allergens": ["peanut butter", "roasted peanuts"]
     }
   ]
 }
